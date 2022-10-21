@@ -20,4 +20,4 @@ For collaboration inquiries, please contact me at:
 [LinkedIn](https://www.linkedin.com/in/dominikpegler-vie/)
 
 **Norma Photography Collective**  
-[www.normanormanorma.org](www.normanormanorma.org)
+[www.normanormanorma.org](https://www.normanormanorma.org)
