@@ -16,7 +16,8 @@ For inquiries for collaborations, please contact me under:
 
 **Social Media**  
 [Instagram](https://www.instagram.com/imgki_erdenpol/?hl=en)  
-[Flickr](https://www.flickr.com/photos/imgki_erdenpol/)
+[Flickr](https://www.flickr.com/photos/imgki_erdenpol/)  
+[LinkedIn](https://www.linkedin.com/in/dominikpegler-vie/)
 
 **Norma Photography Collective**  
 [www.normanormanorma.org](www.normanormanorma.org)
