@@ -6,7 +6,7 @@ weight = 9999
   identifier = "contact"
 +++
 
-For inquiries for collaborations, please contact me under:
+For collaboration inquiries, please contact me at:
 
 **Email**  
 [dominikpegler@posteo.org](mailto:dominikpegler@posteo.org)
