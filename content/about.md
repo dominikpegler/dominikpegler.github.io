@@ -11,7 +11,9 @@ Hi, I am Dominik.
 
 I live in Vienna.
 
-I take photos and I study psychology.
+I like to take photos.
+
+I am currently studying for a Masters in Psychology at the University of Vienna. My main interest lies in the field of computational cognitive modeling.
 
 ## Photography Articles
 
