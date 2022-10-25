@@ -1,15 +1,9 @@
-@font-face {
-  font-family: "PT Sans";
-  src: local("PT Sans"), local("PTSans-Regular"), url("../fonts/PTSans-Regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: "PT Sans";
-  src: local("PT Sans Bold"), local("PTSans-Bold"), url("../fonts/PTSans-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-}
+@import url("https://fonts.googleapis.com/css?family=Noticia+Text&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Maitree&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Brawler&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bitter&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif&display=swap");
 
 html {
   background: #d3d4db;
@@ -21,7 +15,8 @@ html {
 body {
   background: #ffffff;
   color: #212228;
-  font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif;
+  font-family: "Bitter", "Noticia Text", "Maitree", "Brawler", "Roboto Serif",
+    "Noto Serif", -apple-system, "Helvetica Neue", "Segoe UI", sans-serif;
   font-weight: 400;
   line-height: 1.6;
   margin: 0;
@@ -32,11 +27,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 600;
 }
 
-b, strong, th {
+b,
+strong,
+th {
   font-weight: 600;
 }
 
@@ -52,7 +54,9 @@ a:hover {
   text-decoration: underline;
 }
 
-header a, footer a, aside a {
+header a,
+footer a,
+aside a {
   color: inherit;
 }
 
@@ -76,11 +80,13 @@ blockquote {
   opacity: 0.75;
 }
 
-blockquote, figure {
+blockquote,
+figure {
   margin: 1em 0;
 }
 
-img, li {
+img,
+li {
   margin: 0.5em 0;
 }
 
@@ -99,12 +105,14 @@ table {
   box-shadow: 0 0 0 1px rgba(144, 145, 148, 0.12) inset;
 }
 
-th, td {
+th,
+td {
   padding: 0.5em 1em;
   box-shadow: 0 0 0 1px rgba(144, 145, 148, 0.12);
 }
 
-tr:hover, tr:nth-child(odd) td {
+tr:hover,
+tr:nth-child(odd) td {
   background: rgba(144, 145, 148, 0.04);
 }
 
@@ -126,7 +134,8 @@ pre {
   padding: 0.2em 0.4em;
 }
 
-body > header, body > footer {
+body > header,
+body > footer {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -135,7 +144,9 @@ body > header, body > footer {
   color: #ffffff;
 }
 
-body > header, body > article, body > footer {
+body > header,
+body > article,
+body > footer {
   padding: 1.5em;
 }
 
@@ -157,7 +168,10 @@ nav a {
 }
 
 @media (prefers-color-scheme: dark) {
-  html, body, body > header, body > footer {
+  html,
+  body,
+  body > header,
+  body > footer {
     background: #212228;
     color: #ffffff;
     box-shadow: 0 0 0 1px #33353e;
@@ -165,7 +179,9 @@ nav a {
 }
 
 @media (min-width: 32em) {
-  body > header, body > article, body > footer {
+  body > header,
+  body > article,
+  body > footer {
     padding: 1.65em calc(22% - 6em);
   }
 }
@@ -202,8 +218,8 @@ nav a {
 }
 
 .highlight pre {
-  background: rgba(47, 48, 57, 0.9)!important;
-  color: white!important;
+  background: rgba(47, 48, 57, 0.9) !important;
+  color: white !important;
 }
 
 .katex {
