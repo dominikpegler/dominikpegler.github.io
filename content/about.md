@@ -13,7 +13,7 @@ I live in Vienna.
 
 I like to take photos.
 
-I am currently pursuing a PhD in psychology at the University of Vienna. My main interest is in the field of computational cognitive modelling.
+I am currently a PhD student in Psychology at the University of Vienna. My main interest is in the field of computational cognitive modeling.
 
 ## Photography Articles
 
