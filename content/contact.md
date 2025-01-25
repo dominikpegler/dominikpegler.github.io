@@ -15,9 +15,11 @@ For collaboration inquiries, please contact me at:
 [GitHub](https://www.github.com/dominikpegler)
 
 **Social Media**  
-[Instagram](https://www.instagram.com/imgki_erdenpol/?hl=en)  
-[Flickr](https://www.flickr.com/photos/imgki_erdenpol/)  
 [LinkedIn](https://www.linkedin.com/in/dominikpegler-vie/)
+[Flickr](https://www.flickr.com/photos/imgki_erdenpol/)  
+[Pixelfed](https://pixelfed.social/imgki_erdenpol)  
+[Bluesky](https://bsky.app/profile/dominikpegler.bsky.social)
+[Mastodon](https://sigmoid.social/@dominikpegler)
 
 **Norma Photography Collective**  
 [www.normanormanorma.org](https://www.normanormanorma.org)
