@@ -15,6 +15,12 @@ I like to take photos.
 
 I am currently a PhD student in Psychology at the University of Vienna. My main interest is in the field of computational cognitive modeling.
 
+## Research Articles
+
+[SpiderNets: Vision Models Predict Human Fear From Aversive Images (2025)](https://arxiv.org/abs/2509.04889)
+
+[Unpacking Interpretability: Human-Centered Criteria for Optimal Combinatorial Solutions (2026)](https://arxiv.org/abs/2603.08856)
+
 ## Photography Articles
 
 [2021-02-21: Dimitris Makrygiannakis talks with Dominik Pegler (burnmyeye.org)](https://www.burnmyeye.org/exposure/2021/2/15/dimitris-makrygiannakis-talks-with-dominik-pegler)
